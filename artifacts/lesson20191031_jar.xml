@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lesson20191031:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lesson20191031_jar</output-path>
+    <root id="archive" name="lesson20191031.jar">
+      <element id="module-output" name="lesson20191031" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.8.9/jackson-core-2.8.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.9/jackson-databind-2.8.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/jsonwebtoken/jjwt/0.9.0/jjwt-0.9.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
